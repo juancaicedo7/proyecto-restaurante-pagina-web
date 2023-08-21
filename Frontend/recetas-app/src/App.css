@@ -1,0 +1,58 @@
+
+
+
+.text-purple {
+    color: purple;
+  }
+  
+  .icon-margin {
+    margin: 5px;
+    color: purple;
+  }
+  
+  .title{
+      font-size: 120px;
+  }
+
+  body{
+    /* background-color: #0E6655; */
+    /* background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20210330/pngtree-3d-real-restaurant-cutlery-background-double-ear-flat-pot-image_596812.jpg"); */
+    background-color: rgb(8, 8, 8);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 520px;
+    
+    /* https://img.freepik.com/fotos-premium/cubiertos-sobre-mesa-piedra-negra-verduras-especias-fondo-alimentos-vista-superior-estilo-rustico_187166-3962.jpg?w=2000*/
+    
+}
+
+.card:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+
+.card{
+    background-color: #f6faf9
+}
+
+
+.card-header img{
+ 
+    height: 250px; 
+    width: 350px;
+        
+}
+
+section input{
+    size: 20;
+}
+
+#titulo{
+    font-size: 25px;
+}
+
+img .img-fluid{
+    height: 100px; 
+    width: 100px;
+}
